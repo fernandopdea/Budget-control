@@ -1,3 +1,12 @@
+OBS: Importante para o funcionamento. 
+
+01 = Instale as dependências usando o comando => npm install
+
+02 = Inicie o projeto usando o => npm start
+
+03 = Agora inicie o servidor que será usado nesse projeto, esta implementado 
+     no arquivo db.json, fique a vontade para modificar da sua maneira Obs: use o comando => npm run backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
